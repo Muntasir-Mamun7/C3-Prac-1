@@ -1,0 +1,43 @@
+
+*{
+    background-color: rgba(64, 49, 115, 0.979);
+}
+
+.about-me {
+    background-color: rgba(77, 167, 77, 0.845);
+    color: white;
+    font-weight: 100;
+}
+.introduction {
+    background-color: brown;
+    color: white;
+    font-weight: 100;
+    width: 200;
+}
+
+.courses {
+    background-color: rgba(202, 212, 222, 0.842);
+    color: rgb(67, 9, 95);
+    width: 200;
+    font-weight: 100;
+}
+.hobbies {
+    background-color: rgb(177, 138, 65);
+    color: white;
+    width: 200;
+}
+p {
+    color: white;
+    font-size: 12px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 100;
+}
+.ul-list {
+    color: white;
+    font-size: 12px;
+}
+.ol-list {
+    color: white;
+    font-size: 12px;
+}
