@@ -7,24 +7,32 @@
     background-color: rgba(77, 167, 77, 0.845);
     color: white;
     font-weight: 100;
+    border-radius:10px ;
+    padding-left: 15px;
 }
 .introduction {
     background-color: brown;
     color: white;
     font-weight: 100;
-    width: 200;
+    width: 200px;
+    border-radius:10px ;
+    padding-left: 15px;
 }
 
 .courses {
     background-color: rgba(202, 212, 222, 0.842);
     color: rgb(67, 9, 95);
-    width: 200;
+    width: 200px;
     font-weight: 100;
+    border-radius:10px ;
+    padding-left: 15px;
 }
 .hobbies {
     background-color: rgb(177, 138, 65);
     color: white;
-    width: 200;
+    width: 200px;
+    border-radius:10px ;
+    padding-left: 15px;
 }
 p {
     color: white;
@@ -42,5 +50,10 @@ p {
     font-size: 12px;
 }
 a {
-    color: white;
+    color: white
+}
+a:hover {
+    color: yellow;
+
+    text-shadow: 5px 5px 5px rgb(254, 233, 3);
 }
